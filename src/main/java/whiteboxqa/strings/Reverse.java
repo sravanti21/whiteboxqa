@@ -1,5 +1,5 @@
 package whiteboxqa.strings;
-
+//this calss reverses
 public class Reverse {
 public static void main(String[] args) {
 	
